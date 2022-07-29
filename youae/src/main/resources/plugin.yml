@@ -1,0 +1,8 @@
+name: youae
+version: 1.0.1
+author: youae
+main: youae.Main
+api-version: 1.19
+commands:
+  다이아몬드블럭:
+  test:
